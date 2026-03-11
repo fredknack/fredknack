@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.png" width="100%">
+  <img src="/images/banner.jpg" width="100%">
 </p>
 
 
@@ -38,7 +38,7 @@ Siggme is a platform designed to help people organize real-world gatherings thro
 ### ⭐ Google Corporate Timeline Installation
 
 <p align="center">
-  <img src="Inflectionwall.png" width="750">
+  <img src="images/Inflectionwall.jpg" width="750">
 </p>
 
 Interactive timeline installation located in **Google headquarters**.
