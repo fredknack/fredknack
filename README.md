@@ -2,17 +2,17 @@
   <img src="./banner.png" width="100%">
 </p>
 
-# Fred Knack
+<h1 align="center">Fred Knack</h1>
 
-Creative technologist building interactive systems with **Unity, web platforms, and embedded hardware**.
+<p align="center">
+Creative technologist building interactive systems with <b>Unity, web platforms, and embedded hardware</b>.
+</p>
 
-I design installations, kiosks, and experimental interfaces that connect digital systems with physical spaces. My work often combines game engines, sensors, LED networks, and cloud services to create real-world interactive experiences.
+<p align="center">
+Developer of <b>Siggme.com</b>
+</p>
 
----
-
-## Current Project
-
-### Siggme.com
+<br>
 
 Siggme is a platform designed to help people organize real-world gatherings through **clear social signals**.
 It helps communities coordinate events by gathering interest first, then moving into scheduling once enough people are ready to participate.
