@@ -2,7 +2,7 @@
   <img src="banner.png" width="100%">
 </p>
 
-![Banner](inflectionwall.png)
+
 
 <h1 align="center">Fred Knack</h1>
 
@@ -38,7 +38,7 @@ Siggme is a platform designed to help people organize real-world gatherings thro
 ### ⭐ Google Corporate Timeline Installation
 
 <p align="center">
-  <img src="inflectionwall.png" width="750">
+  <img src="Inflectionwall.png" width="750">
 </p>
 
 Interactive timeline installation located in **Google headquarters**.
