@@ -22,7 +22,8 @@ Interactive installations, real-time systems, and social platforms used in corpo
   <a href="#featured-systems"><b>Featured Systems</b></a> •
   <a href="#technologies"><b>Technologies</b></a> •
   <a href="#interactive-technology"><b>Interactive Technology</b></a> •
-  <a href="#current-focus"><b>Current Focus</b></a>
+  <a href="#current-focus"><b>Current Focus</b></a> •
+  <a href="ProjectArchive.md"><b>Project Archive</b></a>
 </p>
 
 <br>
