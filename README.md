@@ -33,6 +33,24 @@ Siggme is a platform designed to help people organize real-world gatherings thro
 
 ## Featured Systems
 
+### ⭐ Google Corporate Timeline Installation
+
+<p align="center">
+  <img src="inflectionwall.png" width="750">
+</p>
+
+Interactive timeline installation located in **Google headquarters**.
+
+The system runs across **16 synchronized touchscreen displays powered by 8 PCs**, each controlling two displays. Each Unity PC drives two displays while Firebase synchronizes timeline state and user interactions across the entire installation. The experience was built in **Unity** with **Firebase-based synchronization** to keep all screens coordinated in real time.
+
+**Tech:** Unity • C# • Firebase • Multi-display synchronization
+
+<br>
+
+<table>
+  <tr>
+    <td valign="top" width="50%">
+
 ### Siggme — Social Coordination Platform
 
 Platform for organizing real-world gatherings through signal-based coordination.
@@ -41,28 +59,8 @@ Users propose activities, gather interest from subscribers, and schedule events 
 
 **Tech:** JavaScript • Web Platform • Cloud Services
 
-<br>
-
----
-
-### Google Corporate Timeline Installation
-
-<p align="center">
-  <img src="inflectionwall.png" width="750">
-</p>
-
-Interactive timeline installation located in **Google headquarters**.
-
-The system runs across **16 synchronized touchscreen displays powered by 8 PCs**, each controlling two displays.  Each Unity PC drives two displays while Firebase synchronizes timeline state and user interactions across the entire installation.
-The experience was built in **Unity** with **Firebase-based synchronization** to keep all screens coordinated in real time.
-
-
-
-**Tech:** Unity • C# • Firebase • Multi-display synchronization
-
-<br>
-
----
+  </td>
+    <td valign="top" width="50%">
 
 ### Meta Trade Show WhatsApp Demonstration
 
@@ -71,6 +69,10 @@ Interactive trade show experience used by **Meta** to demonstrate WhatsApp integ
 The system uses **Node.js services connected to Firebase**, combined with **Unity visualization displays** that show live WhatsApp usage activity during demonstrations.
 
 **Tech:** WhatsApp • Node.js • Firebase • Unity • Real-time messaging systems
+
+  </td>
+  </tr>
+</table>
 
 <br>
 
