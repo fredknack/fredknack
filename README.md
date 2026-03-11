@@ -112,11 +112,3 @@ Typical components include:
 <br>
 
 ---
-
-## Current Focus
-
-- Building **Siggme.com**  
-- Interactive installations using Unity and sensors  
-- Real-time hardware + cloud systems  
-
----
