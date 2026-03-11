@@ -77,7 +77,13 @@ The system uses **Node.js services connected to Firebase**, combined with **Unit
 </table>
 
 <br>
-[View Full Project Archive →](ProjectArchive.md)
+---
+
+<p align="center">
+
+**[View Full Project Archive →](ProjectArchive.md)**
+
+</p>
 <br>
 ---
 
