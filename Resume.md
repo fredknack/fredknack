@@ -10,6 +10,7 @@ Experienced in designing and deploying interactive systems for corporate install
 
 - Interactive installations and physical computing
 - Real-time 3D (Unity/C#)
+- Projection mapping and live visual performance systems
 - Multi-display synchronized systems
 - Web-based dashboards and cloud-connected applications
 - Hardware/software integration
@@ -28,6 +29,7 @@ Experienced in designing and deploying interactive systems for corporate install
 - Real-time cloud synchronization using **Firebase and event-driven hardware triggers**
 - Interactive trade show installations integrating **touchscreens, LED walls, vending hardware, and sensors**
 - Cloud dashboards and analytics systems tracking **user behavior and installation activity**
+- Live visual systems and projection-mapped environments used in DJ and performance settings**
 
 ---
 
@@ -77,6 +79,7 @@ Development emphasizes rapid prototyping and practical deployment environments s
 - Adobe Premiere (expert)
 - Adobe After Effects (expert)
 - Blender (3D modeling and scene development)
+- Projection mapping and live visuals (VDMX)
 - Adobe Creative Suite
 
 ---
