@@ -53,60 +53,13 @@ Users propose activities, gather interest from subscribers, and schedule events 
 
 Interactive timeline installation located in **Google headquarters**.
 
-The system runs across **16 synchronized touchscreen displays powered by 8 PCs**, each controlling two displays.
+The system runs across **16 synchronized touchscreen displays powered by 8 PCs**, each controlling two displays.  
 The experience was built in **Unity** with **Firebase-based synchronization** to keep all screens coordinated in real time.
 
-**Tech:** Unity • C# • Firebase • Multi-display synchronization
+#### System Architecture
 
-<br>
-
----
-
-### Meta Trade Show WhatsApp Demonstration
-
-Interactive trade show experience used by **Meta** to demonstrate WhatsApp integrations.
-
-The system uses **Node.js services connected to Firebase**, combined with **Unity visualization displays** that show live WhatsApp usage activity during demonstrations.
-
-**Tech:** WhatsApp • Node.js • Firebase • Unity • Real-time messaging systems
-
-<br>
-
----
-
-## Technologies
-
-![Unity](https://img.shields.io/badge/Unity-000000?logo=unity\&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript\&logoColor=black)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase\&logoColor=black)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?logo=arduino\&logoColor=white)
-![RaspberryPi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?logo=raspberry-pi\&logoColor=white)
-
-<br>
-
----
-
-## Interactive Technology
-
-Many of my projects combine software and hardware to create **interactive environments used in exhibits, corporate spaces, and live experiences**.
-
-Typical components include:
-
-• Unity-driven applications
-• sensors and microcontrollers
-• LED systems and physical interfaces
-• Raspberry Pi and embedded devices
-• real-time cloud services
-
-<br>
-
----
-
-## Current Focus
-
-• Building **Siggme.com**
-• Interactive installations using Unity and sensors
-• Real-time hardware + cloud systems
-
----
+```mermaid
+graph TD
+    A[16 Touchscreen Displays] --> B[8 Unity PCs]
+    B --> C[(Firebase Sync Layer)]
+    C --> B
