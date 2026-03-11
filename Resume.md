@@ -26,7 +26,6 @@ Experienced in designing and deploying interactive systems for corporate install
 - Next.js
 - Node.js
 - Firebase / Firestore
-- Angular
 - Web-based dashboards and cloud applications
 
 ### AI Development Tools
@@ -34,6 +33,12 @@ Experienced in designing and deploying interactive systems for corporate install
 - Codex-assisted development workflows
 - Claude AI engineering tools
 - AI-assisted prototyping and software design
+
+### Database Platforms
+- PostgreSQL
+- Supabase
+- Firebase Firestore
+- Realtime cloud data synchronization
 
 ### Hardware & Embedded Systems
 - Arduino
@@ -46,6 +51,7 @@ Experienced in designing and deploying interactive systems for corporate install
 - Firebase
 - Railway
 - Twilio
+- Supabase
 - Cloud-based real-time synchronization
 
 ### Creative & Media Tools
