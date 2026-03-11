@@ -4,8 +4,6 @@ Interactive Systems Developer specializing in real-time installations, immersive
 
 Experienced in designing and deploying interactive systems for corporate installations, trade shows, public art environments, and training platforms. Development workflows incorporate modern AI-assisted engineering tools to accelerate system design, prototyping, and implementation.
 
-- Interactive installations deployed in **corporate headquarters, public art environments, and global trade shows**
-
 ---
 
 ## Core Expertise
@@ -33,23 +31,13 @@ Experienced in designing and deploying interactive systems for corporate install
 
 ---
 
-## Systems Architecture Focus
+## Systems Architecture & Engineering Approach
 
 Design of interactive systems that combine real-time applications, physical interfaces, and cloud infrastructure.
 
 Typical architectures include Unity-based client applications connected to cloud platforms such as Firebase or Supabase, with hardware control systems using Arduino or ESP-class microcontrollers. Systems frequently incorporate web dashboards for monitoring usage, analytics, and operational control.
 
-Projects are designed for deployment in environments such as corporate installations, trade shows, public art spaces, and training platforms where reliability, synchronization, and responsive user interaction are essential.
-
----
-
-## Engineering Approach
-
-Development emphasizes rapid prototyping, real-world deployment, and systems that integrate software, hardware, and cloud infrastructure.
-
-Modern AI-assisted engineering tools are incorporated into development workflows to accelerate system design, debugging, and implementation. Platforms such as OpenAI, Codex, and Claude are used to assist with code generation, architecture exploration, and technical documentation.
-
-Projects are typically developed iteratively with a focus on practical deployment environments such as corporate installations, trade show systems, public installations, and training platforms.
+Development emphasizes rapid prototyping and practical deployment environments such as corporate installations, trade shows, public art environments, and training platforms. AI-assisted engineering tools including OpenAI, Codex, and Claude are incorporated into development workflows to accelerate system design, debugging, and implementation.
 
 ---
 
@@ -72,7 +60,6 @@ Projects are typically developed iteratively with a focus on practical deploymen
 - PostgreSQL
 - Supabase
 - Firebase Firestore
-- Realtime cloud data synchronization
 
 ### Hardware & Embedded Systems
 - Arduino
@@ -85,8 +72,6 @@ Projects are typically developed iteratively with a focus on practical deploymen
 - Firebase
 - Railway
 - Twilio
-- Supabase
-- Cloud-based real-time synchronization
 
 ### Creative & Media Tools
 - Adobe Premiere (expert)
@@ -96,61 +81,116 @@ Projects are typically developed iteratively with a focus on practical deploymen
 
 ---
 
-## Selected Systems
+## Representative Clients & Deployments
+
+Systems and installations developed for organizations including:
+
+- Google
+- Meta
+- Netflix
+- Liberty Mutual
+- Kaiser Permanente
+- Wendy’s
+
+Deployments include corporate headquarters installations, public art environments, training platforms, and global trade show systems.
+
+---
+
+## Project Highlights
 
 ### Google Corporate Timeline Installation
 
-Large-scale interactive installation located in Google corporate headquarters.
+**System Snapshot**
 
-The system consists of sixteen synchronized touchscreen displays powered by eight PCs running Unity applications. Firebase provides real-time synchronization between systems, while an Angular-based CMS manages timeline content including video and historical media.
+| Displays | 16 Touchscreens |
+| Compute | 8 PCs |
+| Engine | Unity |
+| CMS | Angular |
+| Cloud | Firebase |
+
+Large-scale interactive installation located in Google corporate headquarters. Sixteen synchronized touchscreen displays present historical milestones, videos, and media from across Google's history. Firebase maintains real-time synchronization across systems while an Angular-based CMS manages content updates.
 
 ---
 
 ### Meta Trade Show WhatsApp Demonstration
 
-Interactive demonstration platform used at Meta trade shows to showcase WhatsApp business workflows.
+**System Snapshot**
 
-Visitors launched the experience by scanning a QR code which opened a simulated business interaction in WhatsApp. Node.js services handled messaging workflows through Twilio, while Firebase captured interaction data. A Unity-based display wall presented live analytics of visitor activity through a web dashboard.
+| Engine | Unity |
+| Backend | Node.js |
+| Messaging | Twilio |
+| Cloud | Firebase |
+| Dashboard | Next.js |
+
+Interactive demonstration platform used at Meta trade shows to showcase WhatsApp business workflows. Visitors launched the experience by scanning a QR code which opened a simulated WhatsApp interaction. Usage data was captured in Firebase and visualized in real time on a Unity display wall and web dashboard.
 
 ---
 
 ### Liberty Mutual Augmented Reality Training
 
-Augmented reality training system designed for insurance adjuster education.
+**System Snapshot**
 
-Unity applications running on iPads overlaid virtual building environments onto real-world spaces. Trainees explored simulated flood damage scenarios while usage data was captured in Firebase and analyzed through a web-based analytics dashboard.
+| Platform | iPad |
+| Engine | Unity |
+| Cloud | Firebase |
+| Dashboard | Next.js |
+| 3D Tools | Blender |
+
+Augmented reality training system designed for insurance adjuster education. Virtual building environments were overlaid onto real-world spaces allowing trainees to inspect simulated flood damage scenarios. Usage data was recorded in Firebase and analyzed through a web-based dashboard.
 
 ---
 
 ### Liberty Mutual Virtual Reality Training
 
-Virtual reality simulations designed to train users to identify residential property damage.
+**System Snapshot**
 
-Users explored immersive environments in VR headsets to examine structural conditions and determine potential insurance coverage scenarios.
+| Platform | Meta VR Headsets |
+| Engine | Unity |
+| Tools | Blender |
+
+Virtual reality simulations designed to train users to identify residential property damage. Trainees explored immersive environments to evaluate structural conditions and determine potential insurance coverage scenarios.
 
 ---
 
 ### Fathom Immersive Art Installation
 
-Interactive submarine bridge environment within a large public immersive art installation in Portland.
+**System Snapshot**
 
-The system featured a console of 24 physical buttons controlling synchronized video across six displays. User interactions were logged in Firebase and triggered lighting effects via ESP8266 microcontrollers. The installation recorded more than 250,000 interactions during its two-year run.
+| Displays | 6 Screens |
+| Inputs | 24 Physical Buttons |
+| Engine | Unity |
+| Hardware | Arduino |
+| Cloud | Firebase |
+| Control | ESP8266 |
+
+Interactive submarine bridge environment within the **Fathom** immersive art installation in Portland. A physical console controlled synchronized video across multiple displays while all button interactions were logged in Firebase. ESP8266 microcontrollers monitored cloud events to trigger environmental lighting effects. The installation recorded more than **250,000 interactions** during its two-year run.
 
 ---
 
 ### Allura Augmented Reality Visualization System
 
-Trade show installation demonstrating siding and paint color options on residential structures.
+**System Snapshot**
 
-Users placed printed building cards beneath a mobile device running a Unity AR application which generated animated 3D models. A physical button console connected through Arduino allowed real-time color selection synchronized via Firebase.
+| Platform | iOS |
+| Engine | Unity |
+| Hardware | Arduino Button Console |
+| Cloud | Firebase |
+| 3D Tools | Blender |
+
+Trade show installation demonstrating siding and paint color options on residential buildings. Printed building cards triggered animated 3D models in a Unity AR application. A physical console allowed real-time paint color selection synchronized through Firebase.
 
 ---
 
 ### Interactive Marketing Installations
 
-Development of interactive promotional installations combining Unity applications with custom hardware systems.
+**System Snapshot**
 
-Projects included systems for companies such as Netflix and Wendy’s featuring vending machines, LED display environments, and touchscreen interfaces integrated with Arduino-based control hardware.
+| Engine | Unity |
+| Hardware | Arduino |
+| Displays | LED walls and LCD screens |
+| Interfaces | Touchscreen kiosks |
+
+Development of interactive promotional installations combining Unity applications with custom hardware systems. Projects included systems for companies such as Netflix and Wendy’s featuring vending machines, LED display environments, and touchscreen interfaces integrated with Arduino-based control hardware.
 
 ---
 
