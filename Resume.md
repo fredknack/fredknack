@@ -9,7 +9,7 @@ Experienced in designing and deploying interactive systems for corporate install
 ## Core Expertise
 
 - Interactive installations and physical computing
-- Real-time 3D applications
+- Real-time 3D (Unity/C#)
 - Multi-display synchronized systems
 - Web-based dashboards and cloud-connected applications
 - Hardware/software integration
