@@ -18,7 +18,14 @@ Projects emphasize the integration of software, hardware, and cloud infrastructu
 
 ---
 
-# Liberty Mutual AR Training System
+<details>
+<summary><strong>Liberty Mutual AR Training System</strong></summary>
+
+<br>
+
+<p align="center">
+<img src="images/lvkitchen.jpg" width="700">
+</p>
 
 **System Snapshot**
 
@@ -31,11 +38,20 @@ Projects emphasize the integration of software, hardware, and cloud infrastructu
 | Platform | iPad |
 
 Development of an augmented reality training application for insurance adjusters.  
-3D replicas of residential environments were created in Blender and aligned with real-world spaces so that virtual damage scenarios could be explored through an iPad. The system allowed learners to inspect simulated flood damage behind appliances and structural components. Usage data was transmitted to Firebase and visualized through a Next.js dashboard for training analytics.
+3D replicas of residential environments were created in Blender and aligned with real-world spaces so that virtual damage scenarios could be explored through an iPad. The system enabled learners to inspect simulated flood damage behind appliances and structural components. Usage data was transmitted to Firebase and visualized through a Next.js dashboard for training analytics.
+
+</details>
 
 ---
 
-# Liberty Mutual VR Training
+<details>
+<summary><strong>Liberty Mutual VR Training</strong></summary>
+
+<br>
+
+<p align="center">
+<img src="images/libertyvr.jpg" width="700">
+</p>
 
 **System Snapshot**
 
@@ -47,11 +63,20 @@ Development of an augmented reality training application for insurance adjusters
 | Tools | Blender |
 
 Development of immersive VR simulations of residential environments used for insurance training.  
-Users explored virtual properties to identify structural and environmental damage that may or may not be covered by insurance policies. The simulations allowed trainees to practice evaluation scenarios within controlled virtual environments.
+Users explored virtual properties to identify structural and environmental damage that may or may not be covered by insurance policies. The simulations provided a controlled environment for practicing property assessment scenarios.
+
+</details>
 
 ---
 
-# Meta Trade Show WhatsApp Demonstration
+<details>
+<summary><strong>Meta Trade Show WhatsApp Demonstration</strong></summary>
+
+<br>
+
+<p align="center">
+<img src="images/whatsappdemo.jpg" width="700">
+</p>
 
 **System Snapshot**
 
@@ -63,11 +88,20 @@ Users explored virtual properties to identify structural and environmental damag
 | Cloud | Firebase |
 
 Design and deployment of an interactive WhatsApp demonstration used at Meta trade shows.  
-Visitors launched the experience by scanning a QR code that opened a WhatsApp workflow simulating business use cases and swag selection. Interaction data was stored in Firestore and visualized in real time on a Unity-powered display wall. Post-event analytics were accessible through a Next.js dashboard.
+Visitors launched the experience by scanning a QR code that initiated a WhatsApp workflow simulating business use cases and swag selection. Interaction data was stored in Firestore and visualized in real time on a Unity-powered display wall. Post-event analytics were accessible through a Next.js dashboard.
+
+</details>
 
 ---
 
-# Allura Augmented Reality Paint Visualization
+<details>
+<summary><strong>Allura Augmented Reality Paint Visualization</strong></summary>
+
+<br>
+
+<p align="center">
+<img src="images/allura.jpg" width="700">
+</p>
 
 **System Snapshot**
 
@@ -80,11 +114,20 @@ Visitors launched the experience by scanning a QR code that opened a WhatsApp wo
 | Tools | Blender |
 
 Development of an AR visualization system used at trade shows to demonstrate siding and paint options for residential buildings.  
-Users placed printed building cards under a mobile device running a Unity AR application, which generated animated 3D building models. A physical console of 20 color-selection buttons connected to Arduino allowed users to change the building's paint color in real time through Firebase synchronization.
+Users placed printed building cards beneath a mobile device running a Unity AR application, generating animated 3D models of each structure. A physical console of 20 Arduino-controlled buttons allowed real-time paint color selection, synchronized through Firebase.
+
+</details>
 
 ---
 
-# Fathom Submarine Bridge Installation
+<details>
+<summary><strong>Fathom Submarine Bridge Installation</strong></summary>
+
+<br>
+
+<p align="center">
+<img src="images/fathom.jpg" width="700">
+</p>
 
 **System Snapshot**
 
@@ -97,11 +140,20 @@ Users placed printed building cards under a mobile device running a Unity AR app
 | Inputs | 24 Physical Buttons |
 
 Development of an interactive submarine bridge environment within the **Fathom** immersive art installation in Portland.  
-The system featured a console of 24 physical buttons controlling synchronized video across six displays. All button interactions were tracked in Firebase, enabling real-time usage visualization and triggering remote lighting effects via ESP8266 microcontrollers. The installation recorded more than 250,000 user interactions during its two-year run.
+A console of 24 physical buttons controlled synchronized video across six displays while all interactions were recorded in Firebase. Remote ESP8266 boards monitored cloud updates to trigger environmental lighting effects. The installation recorded more than 250,000 user interactions during its two-year run.
+
+</details>
 
 ---
 
-# Netflix Cowboy Bebop Trade Show Installation
+<details>
+<summary><strong>Netflix Cowboy Bebop Trade Show Installation</strong></summary>
+
+<br>
+
+<p align="center">
+<img src="images/cowboybebop.jpg" width="700">
+</p>
 
 **System Snapshot**
 
@@ -114,11 +166,20 @@ The system featured a console of 24 physical buttons controlling synchronized vi
 | Hardware | Custom Vending Machine |
 
 Development of an interactive promotional installation for the launch of Netflix’s *Cowboy Bebop*.  
-Visitors inserted a coin into a custom vending machine that triggered synchronized video and LED lighting effects coordinated through Unity and Arduino. The sequence culminated in the dispensing of promotional prizes.
+Visitors inserted a coin into a custom vending machine that triggered synchronized visual sequences and LED lighting effects coordinated through Unity and Arduino. The interaction concluded with the dispensing of promotional prizes.
+
+</details>
 
 ---
 
-# Wendy’s / Twitter Social Vending Installation
+<details>
+<summary><strong>Wendy’s / Twitter Social Vending Installation</strong></summary>
+
+<br>
+
+<p align="center">
+<img src="images/wendysvending.jpg" width="700">
+</p>
 
 **System Snapshot**
 
@@ -130,11 +191,20 @@ Visitors inserted a coin into a custom vending machine that triggered synchroniz
 | Hardware | Custom Vending Machine |
 
 Implementation of a social media-driven promotional installation developed with Wendy’s and Twitter.  
-Users posted a specific hashtag to receive a code, which was entered into a Unity touchscreen interface. The application communicated with an Arduino controller to activate a vending machine that dispensed promotional items.
+Users posted a specific hashtag to receive a code which was entered into a Unity touchscreen interface. The system communicated with an Arduino controller to activate a vending machine that dispensed promotional items.
+
+</details>
 
 ---
 
-# Google Corporate Timeline Installation
+<details>
+<summary><strong>Google Corporate Timeline Installation</strong></summary>
+
+<br>
+
+<p align="center">
+<img src="images/Inflectionwall.jpg" width="700">
+</p>
 
 **System Snapshot**
 
@@ -149,11 +219,20 @@ Users posted a specific hashtag to receive a code, which was entered into a Unit
 | Languages | C# |
 
 Design and deployment of a large-scale interactive timeline installation located in Google headquarters.  
-Sixteen touchscreen displays present historical milestones, videos, and achievements from across Google’s history. The system runs across eight synchronized PCs, with Firebase used to maintain state synchronization between nodes. Content management is handled through a custom Angular-based CMS.
+Sixteen touchscreen displays present historical milestones and media across synchronized Unity applications running on eight PCs. Firebase maintains synchronization between systems while an Angular-based CMS manages the installation’s content.
+
+</details>
 
 ---
 
-# Kaiser Permanente Health Quiz Kiosk
+<details>
+<summary><strong>Kaiser Permanente Health Quiz Kiosk</strong></summary>
+
+<br>
+
+<p align="center">
+<img src="images/kaiser.jpg" width="700">
+</p>
 
 **System Snapshot**
 
@@ -166,6 +245,6 @@ Sixteen touchscreen displays present historical milestones, videos, and achievem
 | Output | Coupon Printer |
 
 Development of an interactive health quiz kiosk deployed in a retail mall environment.  
-Users interacted with a Unity touchscreen quiz and completed physical button-sequence challenges when incorrect answers were given. A custom Arduino-based PCB controlled button lighting and input sequencing. Upon completion of the quiz, the kiosk printed promotional health coupons for participants.
+Users interacted with a Unity touchscreen quiz and completed physical button-sequence challenges triggered by incorrect answers. A custom Arduino-based PCB controlled button lighting and input detection while communicating with the Unity application. Upon completion, the kiosk printed promotional health coupons.
 
----
+</details>
