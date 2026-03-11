@@ -14,22 +14,40 @@ Developer of <b>Siggme.com</b>
 
 <br>
 
-Siggme is a platform designed to help people organize real-world gatherings through **clear social signals**.
-It helps communities coordinate events by gathering interest first, then moving into scheduling once enough people are ready to participate.
+Siggme is a platform designed to help people organize real-world gatherings through **clear social signals** — allowing hosts to gather interest before committing to dates or logistics.
 
 ---
 
-## Interactive Technology
+## Featured Systems
 
-Many of my projects combine software and hardware to create interactive environments used in exhibits, corporate spaces, and live experiences.
+### Siggme — Social Coordination Platform
 
-Typical components include:
+Platform for organizing real-world gatherings through signal-based coordination.
 
-• Unity-driven applications
-• sensors and microcontrollers
-• LED systems and physical interfaces
-• Raspberry Pi and embedded devices
-• real-time cloud services
+Users propose activities, gather interest from subscribers, and schedule events once enough people commit.
+
+**Tech:** JavaScript • Web Platform • Cloud Services
+
+---
+
+### Google Corporate Timeline Installation
+
+Interactive timeline installation located in **Google headquarters**.
+
+The system runs across **16 synchronized touchscreen displays powered by 8 PCs**, each controlling two displays.
+The experience was built in **Unity** with **Firebase-based synchronization** to keep all screens coordinated in real time.
+
+**Tech:** Unity • C# • Firebase • Multi-display synchronization
+
+---
+
+### Meta Trade Show WhatsApp Demonstration
+
+Interactive trade show experience used by **Meta** to demonstrate WhatsApp integrations.
+
+The system uses **Node.js services connected to Firebase**, combined with **Unity visualization displays** that show live WhatsApp usage activity during demonstrations.
+
+**Tech:** WhatsApp • Node.js • Firebase • Unity • Real-time messaging systems
 
 ---
 
@@ -44,47 +62,17 @@ Typical components include:
 
 ---
 
-## Selected Work
+## Interactive Technology
 
-Projects range from **software platforms to large-scale interactive installations**, often blending Unity applications, hardware systems, and cloud services to create responsive environments.
+Many of my projects combine software and hardware to create **interactive environments used in exhibits, corporate spaces, and live experiences**.
 
-Areas of focus include:
+Typical components include:
 
-* Interactive installations
-* Physical computing
-* Real-world user interfaces
-* Experiential technology
-* Social coordination platforms
-
-## Featured Systems
-
-### Siggme — Social Coordination Platform
-Platform for organizing real-world gatherings through signal-based coordination.
-
-Users propose activities, gather interest from subscribers, and schedule events once enough people commit.
-
-Tech: JavaScript • Web Platform • Cloud Services
-
----
-
-### Google Corporate Timeline Installation
-
-Interactive timeline installation located in Google headquarters.
-
-The system runs across **16 synchronized touchscreen displays powered by 8 PCs**, each controlling two displays.  
-The experience was built in **Unity** with **Firebase-based synchronization** to keep all screens coordinated in real time.
-
-Tech: Unity • C# • Firebase • Multi-display synchronization
-
----
-
-### Meta Trade Show WhatsApp Demonstration
-
-Interactive trade show experience used by Meta to demonstrate WhatsApp integrations.
-
-The system uses **Node.js services connected to Firebase**, combined with **Unity visualization displays** that show live WhatsApp usage activity during demonstrations.
-
-Tech: WhatsApp • Node.js • Firebase • Unity • Real-time messaging systems
+• Unity-driven applications
+• sensors and microcontrollers
+• LED systems and physical interfaces
+• Raspberry Pi and embedded devices
+• real-time cloud services
 
 ---
 
@@ -95,5 +83,3 @@ Tech: WhatsApp • Node.js • Firebase • Unity • Real-time messaging system
 • Real-time hardware + cloud systems
 
 ---
-
-
