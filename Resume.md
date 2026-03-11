@@ -1,6 +1,6 @@
 # Fred Knack
 
-Interactive Systems Developer specializing in real-time installations, immersive environments, and software systems that combine cloud infrastructure, hardware interfaces, and visual media.
+Creative Technologist and Interactive Systems Developer specializing in real-time installations, immersive environments, and software systems that combine cloud infrastructure, hardware interfaces, and visual media.
 
 Experienced in designing and deploying interactive systems for corporate installations, trade shows, public art environments, and training platforms. Development workflows incorporate modern AI-assisted engineering tools to accelerate system design, prototyping, and implementation.
 
