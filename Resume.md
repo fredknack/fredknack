@@ -4,6 +4,8 @@ Interactive Systems Developer specializing in real-time installations, immersive
 
 Experienced in designing and deploying interactive systems for corporate installations, trade shows, public art environments, and training platforms. Development workflows incorporate modern AI-assisted engineering tools to accelerate system design, prototyping, and implementation.
 
+- Interactive installations deployed in **corporate headquarters, public art environments, and global trade shows**
+
 ---
 
 ## Core Expertise
@@ -28,6 +30,16 @@ Experienced in designing and deploying interactive systems for corporate install
 - Real-time cloud synchronization using **Firebase and event-driven hardware triggers**
 - Interactive trade show installations integrating **touchscreens, LED walls, vending hardware, and sensors**
 - Cloud dashboards and analytics systems tracking **user behavior and installation activity**
+
+---
+
+## Engineering Approach
+
+Development emphasizes rapid prototyping, real-world deployment, and systems that integrate software, hardware, and cloud infrastructure.
+
+Modern AI-assisted engineering tools are incorporated into development workflows to accelerate system design, debugging, and implementation. Platforms such as OpenAI, Codex, and Claude are used to assist with code generation, architecture exploration, and technical documentation.
+
+Projects are typically developed iteratively with a focus on practical deployment environments such as corporate installations, trade show systems, public installations, and training platforms.
 
 ---
 
