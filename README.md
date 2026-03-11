@@ -9,10 +9,6 @@ Creative technologist building interactive systems with <b>Unity, web platforms,
 </p>
 
 <p align="center">
-Developer of <a href="https://siggme.com"><b>Siggme.com</b></a>
-</p>
-
-<p align="center">
 Interactive installations, real-time systems, and social platforms used in corporate environments and live experiences.
 </p>
 
@@ -49,20 +45,6 @@ The system runs across **16 synchronized touchscreen displays powered by 8 PCs**
 
 <table>
 <tr>
-<td valign="top" width="50%">
-
-### Siggme — Social Coordination Platform
-
-Siggme is a platform designed to help people organize real-world gatherings through **clear social signals** — allowing hosts to gather interest before committing to dates or logistics.
-
-<br>
-
-Users propose activities, gather interest from subscribers, and schedule events once enough people commit.
-
-**Tech:** JavaScript • Web Platform • Cloud Services
-
-</td>
-
 <td valign="top" width="50%">
 
 ### Meta Trade Show WhatsApp Demonstration
