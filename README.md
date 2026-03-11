@@ -27,9 +27,7 @@ Interactive installations, real-time systems, and social platforms used in corpo
 
 <br>
 
-Siggme is a platform designed to help people organize real-world gatherings through **clear social signals** — allowing hosts to gather interest before committing to dates or logistics.
 
-<br>
 
 ---
 
@@ -55,7 +53,9 @@ The system runs across **16 synchronized touchscreen displays powered by 8 PCs**
 
 ### Siggme — Social Coordination Platform
 
-Platform for organizing real-world gatherings through signal-based coordination.
+Siggme is a platform designed to help people organize real-world gatherings through **clear social signals** — allowing hosts to gather interest before committing to dates or logistics.
+
+<br>
 
 Users propose activities, gather interest from subscribers, and schedule events once enough people commit.
 
