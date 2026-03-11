@@ -2,7 +2,7 @@
 
 Interactive Systems Developer specializing in real-time installations, immersive environments, and software systems that combine cloud infrastructure, hardware interfaces, and visual media.
 
-Experienced in designing and deploying interactive systems for corporate installations, trade shows, public art environments, and training platforms.
+Experienced in designing and deploying interactive systems for corporate installations, trade shows, public art environments, and training platforms. Development workflows incorporate modern AI-assisted engineering tools to accelerate system design, prototyping, and implementation.
 
 ---
 
@@ -10,22 +10,30 @@ Experienced in designing and deploying interactive systems for corporate install
 
 - Interactive installations and physical computing
 - Real-time 3D applications
-- Multi-display systems and synchronized environments
-- Cloud-connected interactive platforms
+- Multi-display synchronized systems
+- Web-based dashboards and cloud-connected applications
 - Hardware/software integration
 - Touchscreen and sensor-driven interfaces
 - Experiential marketing and public installations
+- AI-assisted software development workflows
 
 ---
 
 ## Technologies
 
-### Real-Time & Application Development
+### Application & Web Development
 - Unity (C#)
 - Next.js
 - Node.js
 - Firebase / Firestore
 - Angular
+- Web-based dashboards and cloud applications
+
+### AI Development Tools
+- OpenAI APIs
+- Codex-assisted development workflows
+- Claude AI engineering tools
+- AI-assisted prototyping and software design
 
 ### Hardware & Embedded Systems
 - Arduino
@@ -62,7 +70,7 @@ The system consists of sixteen synchronized touchscreen displays powered by eigh
 
 Interactive demonstration platform used at Meta trade shows to showcase WhatsApp business workflows.
 
-Visitors launched the experience by scanning a QR code which opened a simulated business interaction in WhatsApp. Node.js services handled messaging workflows through Twilio, while Firebase captured interaction data. A Unity-based display wall presented live analytics of visitor activity.
+Visitors launched the experience by scanning a QR code which opened a simulated business interaction in WhatsApp. Node.js services handled messaging workflows through Twilio, while Firebase captured interaction data. A Unity-based display wall presented live analytics of visitor activity through a web dashboard.
 
 ---
 
@@ -70,7 +78,7 @@ Visitors launched the experience by scanning a QR code which opened a simulated 
 
 Augmented reality training system designed for insurance adjuster education.
 
-Unity applications running on iPads overlaid virtual building environments onto real-world spaces. Trainees explored simulated flood damage scenarios while usage data was captured in Firebase and analyzed through a Next.js dashboard.
+Unity applications running on iPads overlaid virtual building environments onto real-world spaces. Trainees explored simulated flood damage scenarios while usage data was captured in Firebase and analyzed through a web-based analytics dashboard.
 
 ---
 
@@ -112,7 +120,8 @@ Projects included systems for companies such as Netflix and Wendy’s featuring 
 - Physical interaction design
 - Custom electronics prototyping
 - Event and trade show technology development
-- Interactive storytelling through real-time media systems
+- AI-assisted development and rapid prototyping
+- Web application development for dashboards and operational tools
 - Cloud-connected installations and analytics
 
 ---
