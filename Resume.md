@@ -19,6 +19,18 @@ Experienced in designing and deploying interactive systems for corporate install
 
 ---
 
+## Systems Scale
+
+- Multi-display interactive installations with up to **16 synchronized touchscreens**
+- Distributed interactive environments running on **8 coordinated compute nodes**
+- Physical interface systems with **24+ hardware inputs and microcontroller integration**
+- Public installations generating **250,000+ recorded user interactions**
+- Real-time cloud synchronization using **Firebase and event-driven hardware triggers**
+- Interactive trade show installations integrating **touchscreens, LED walls, vending hardware, and sensors**
+- Cloud dashboards and analytics systems tracking **user behavior and installation activity**
+
+---
+
 ## Technologies
 
 ### Application & Web Development
