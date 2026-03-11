@@ -2,8 +2,6 @@
   <img src="/images/banner.jpg" width="100%">
 </p>
 
-
-
 <h1 align="center">Fred Knack</h1>
 
 <p align="center">
@@ -52,8 +50,8 @@ The system runs across **16 synchronized touchscreen displays powered by 8 PCs**
 <br>
 
 <table>
-  <tr>
-    <td valign="top" width="50%">
+<tr>
+<td valign="top" width="50%">
 
 ### Siggme — Social Coordination Platform
 
@@ -63,8 +61,9 @@ Users propose activities, gather interest from subscribers, and schedule events 
 
 **Tech:** JavaScript • Web Platform • Cloud Services
 
-  </td>
-    <td valign="top" width="50%">
+</td>
+
+<td valign="top" width="50%">
 
 ### Meta Trade Show WhatsApp Demonstration
 
@@ -74,11 +73,12 @@ The system uses **Node.js services connected to Firebase**, combined with **Unit
 
 **Tech:** WhatsApp • Node.js • Firebase • Unity • Real-time messaging systems
 
-  </td>
-  </tr>
+</td>
+</tr>
 </table>
 
 <br>
+
 ---
 
 <p align="center">
@@ -86,17 +86,30 @@ The system uses **Node.js services connected to Firebase**, combined with **Unit
 **[View Full Project Archive →](ProjectArchive.md)**
 
 </p>
+
 <br>
+
 ---
 
 ## Technologies
 
+### Runtime / Systems
+
 ![Unity](https://img.shields.io/badge/Unity-000000?logo=unity&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white)
 ![RaspberryPi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?logo=raspberry-pi&logoColor=white)
+
+<br>
+
+### Visual Pipeline
+
+![Blender](https://img.shields.io/badge/Blender-F5792A?logo=blender&logoColor=white)
+![After%20Effects](https://img.shields.io/badge/After%20Effects-9999FF?logo=adobeaftereffects&logoColor=white)
+![Premiere%20Pro](https://img.shields.io/badge/Premiere%20Pro-9999FF?logo=adobepremierepro&logoColor=white)
 
 <br>
 
