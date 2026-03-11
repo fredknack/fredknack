@@ -66,8 +66,4 @@ Areas of focus include:
 
 ---
 
-## GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=fredknack\&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fredknack)
