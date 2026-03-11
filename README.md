@@ -59,29 +59,87 @@ The experience was built in **Unity** with **Firebase-based synchronization** to
 #### System Architecture
 
 ```mermaid
-graph TD
+flowchart TB
 
-Displays[16 Touchscreen Displays]
+subgraph Displays
+direction LR
 
-PC1[Unity PC 1]
-PC2[Unity PC 2]
-PC3[Unity PC 3]
-PC4[Unity PC 4]
-PC5[Unity PC 5]
-PC6[Unity PC 6]
-PC7[Unity PC 7]
-PC8[Unity PC 8]
+subgraph Pair1
+D1[Display 1]
+D2[Display 2]
+end
 
-Firebase[(Firebase Realtime Sync)]
+subgraph Pair2
+D3[Display 3]
+D4[Display 4]
+end
 
-Displays --> PC1
-Displays --> PC2
-Displays --> PC3
-Displays --> PC4
-Displays --> PC5
-Displays --> PC6
-Displays --> PC7
-Displays --> PC8
+subgraph Pair3
+D5[Display 5]
+D6[Display 6]
+end
+
+subgraph Pair4
+D7[Display 7]
+D8[Display 8]
+end
+
+subgraph Pair5
+D9[Display 9]
+D10[Display 10]
+end
+
+subgraph Pair6
+D11[Display 11]
+D12[Display 12]
+end
+
+subgraph Pair7
+D13[Display 13]
+D14[Display 14]
+end
+
+subgraph Pair8
+D15[Display 15]
+D16[Display 16]
+end
+
+end
+
+PC1[PC 1]
+PC2[PC 2]
+PC3[PC 3]
+PC4[PC 4]
+PC5[PC 5]
+PC6[PC 6]
+PC7[PC 7]
+PC8[PC 8]
+
+Firebase[(Firebase Cloud)]
+
+D1 --> PC1
+D2 --> PC1
+
+D3 --> PC2
+D4 --> PC2
+
+D5 --> PC3
+D6 --> PC3
+
+D7 --> PC4
+D8 --> PC4
+
+D9 --> PC5
+D10 --> PC5
+
+D11 --> PC6
+D12 --> PC6
+
+D13 --> PC7
+D14 --> PC7
+
+D15 --> PC8
+D16 --> PC8
 
 PC1 --> Firebase
 PC2 --> Firebase
@@ -91,15 +149,6 @@ PC5 --> Firebase
 PC6 --> Firebase
 PC7 --> Firebase
 PC8 --> Firebase
-
-Firebase --> PC1
-Firebase --> PC2
-Firebase --> PC3
-Firebase --> PC4
-Firebase --> PC5
-Firebase --> PC6
-Firebase --> PC7
-Firebase --> PC8
 ```
 
 **Tech:** Unity • C# • Firebase • Multi-display synchronization
