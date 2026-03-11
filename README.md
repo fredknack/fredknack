@@ -48,7 +48,7 @@ Users propose activities, gather interest from subscribers, and schedule events 
 ### Google Corporate Timeline Installation
 
 <p align="center">
-  <img src="inflectionwall.png" width="750">
+  <img src="./inflectionwall.png" width="750">
 </p>
 
 Interactive timeline installation located in **Google headquarters**.
