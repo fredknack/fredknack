@@ -9,7 +9,7 @@ Creative technologist building interactive systems with <b>Unity, web platforms,
 </p>
 
 <p align="center">
-Developer of <b>Siggme.com</b>
+Developer of <a href="https://siggme.com"><b>Siggme.com</b></a>
 </p>
 
 <p align="center">
