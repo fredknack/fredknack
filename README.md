@@ -12,9 +12,15 @@ Creative technologist building interactive systems with <b>Unity, web platforms,
 Developer of <b>Siggme.com</b>
 </p>
 
+<p align="center">
+Interactive installations, real-time systems, and social platforms used in corporate environments and live experiences.
+</p>
+
 <br>
 
 Siggme is a platform designed to help people organize real-world gatherings through **clear social signals** — allowing hosts to gather interest before committing to dates or logistics.
+
+<br>
 
 ---
 
@@ -28,9 +34,15 @@ Users propose activities, gather interest from subscribers, and schedule events 
 
 **Tech:** JavaScript • Web Platform • Cloud Services
 
+<br>
+
 ---
 
 ### Google Corporate Timeline Installation
+
+<p align="center">
+  <img src="inflectionwall.png" width="750">
+</p>
 
 Interactive timeline installation located in **Google headquarters**.
 
@@ -38,6 +50,8 @@ The system runs across **16 synchronized touchscreen displays powered by 8 PCs**
 The experience was built in **Unity** with **Firebase-based synchronization** to keep all screens coordinated in real time.
 
 **Tech:** Unity • C# • Firebase • Multi-display synchronization
+
+<br>
 
 ---
 
@@ -49,6 +63,8 @@ The system uses **Node.js services connected to Firebase**, combined with **Unit
 
 **Tech:** WhatsApp • Node.js • Firebase • Unity • Real-time messaging systems
 
+<br>
+
 ---
 
 ## Technologies
@@ -59,6 +75,8 @@ The system uses **Node.js services connected to Firebase**, combined with **Unit
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase\&logoColor=black)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?logo=arduino\&logoColor=white)
 ![RaspberryPi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?logo=raspberry-pi\&logoColor=white)
+
+<br>
 
 ---
 
@@ -73,6 +91,8 @@ Typical components include:
 • LED systems and physical interfaces
 • Raspberry Pi and embedded devices
 • real-time cloud services
+
+<br>
 
 ---
 
