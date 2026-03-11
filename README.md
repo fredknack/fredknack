@@ -60,6 +60,99 @@ The experience was built in **Unity** with **Firebase-based synchronization** to
 
 ```mermaid
 graph TD
-    A[16 Touchscreen Displays] --> B[8 Unity PCs]
-    B --> C[(Firebase Sync Layer)]
-    C --> B
+
+Displays[16 Touchscreen Displays]
+
+PC1[Unity PC 1]
+PC2[Unity PC 2]
+PC3[Unity PC 3]
+PC4[Unity PC 4]
+PC5[Unity PC 5]
+PC6[Unity PC 6]
+PC7[Unity PC 7]
+PC8[Unity PC 8]
+
+Firebase[(Firebase Realtime Sync)]
+
+Displays --> PC1
+Displays --> PC2
+Displays --> PC3
+Displays --> PC4
+Displays --> PC5
+Displays --> PC6
+Displays --> PC7
+Displays --> PC8
+
+PC1 --> Firebase
+PC2 --> Firebase
+PC3 --> Firebase
+PC4 --> Firebase
+PC5 --> Firebase
+PC6 --> Firebase
+PC7 --> Firebase
+PC8 --> Firebase
+
+Firebase --> PC1
+Firebase --> PC2
+Firebase --> PC3
+Firebase --> PC4
+Firebase --> PC5
+Firebase --> PC6
+Firebase --> PC7
+Firebase --> PC8
+```
+
+**Tech:** Unity • C# • Firebase • Multi-display synchronization
+
+<br>
+
+---
+
+### Meta Trade Show WhatsApp Demonstration
+
+Interactive trade show experience used by **Meta** to demonstrate WhatsApp integrations.
+
+The system uses **Node.js services connected to Firebase**, combined with **Unity visualization displays** that show live WhatsApp usage activity during demonstrations.
+
+**Tech:** WhatsApp • Node.js • Firebase • Unity • Real-time messaging systems
+
+<br>
+
+---
+
+## Technologies
+
+![Unity](https://img.shields.io/badge/Unity-000000?logo=unity&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white)
+![RaspberryPi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?logo=raspberry-pi&logoColor=white)
+
+<br>
+
+---
+
+## Interactive Technology
+
+Many of my projects combine software and hardware to create **interactive environments used in exhibits, corporate spaces, and live experiences**.
+
+Typical components include:
+
+- Unity-driven applications  
+- sensors and microcontrollers  
+- LED systems and physical interfaces  
+- Raspberry Pi and embedded devices  
+- real-time cloud services  
+
+<br>
+
+---
+
+## Current Focus
+
+- Building **Siggme.com**  
+- Interactive installations using Unity and sensors  
+- Real-time hardware + cloud systems  
+
+---
