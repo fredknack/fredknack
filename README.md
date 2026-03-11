@@ -2,6 +2,8 @@
   <img src="banner.png" width="100%">
 </p>
 
+![Banner](inflectionwall.png)
+
 <h1 align="center">Fred Knack</h1>
 
 <p align="center">
