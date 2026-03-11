@@ -4,6 +4,18 @@ This archive documents selected interactive systems, installations, and platform
 
 Projects emphasize the integration of software, hardware, and cloud infrastructure across environments such as corporate headquarters, trade shows, public installations, and training platforms.
 
+## Systems Included
+
+- Liberty Mutual AR Training
+- Liberty Mutual VR Training
+- Meta Trade Show WhatsApp Demo
+- Allura AR Paint Visualization
+- Fathom Immersive Installation
+- Netflix Cowboy Bebop Installation
+- Wendy’s / Twitter Social Vending
+- Google Corporate Timeline
+- Kaiser Permanente Health Quiz Kiosk
+
 ---
 
 # Liberty Mutual AR Training System
