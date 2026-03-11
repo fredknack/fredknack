@@ -33,6 +33,16 @@ Experienced in designing and deploying interactive systems for corporate install
 
 ---
 
+## Systems Architecture Focus
+
+Design of interactive systems that combine real-time applications, physical interfaces, and cloud infrastructure.
+
+Typical architectures include Unity-based client applications connected to cloud platforms such as Firebase or Supabase, with hardware control systems using Arduino or ESP-class microcontrollers. Systems frequently incorporate web dashboards for monitoring usage, analytics, and operational control.
+
+Projects are designed for deployment in environments such as corporate installations, trade shows, public art spaces, and training platforms where reliability, synchronization, and responsive user interaction are essential.
+
+---
+
 ## Engineering Approach
 
 Development emphasizes rapid prototyping, real-world deployment, and systems that integrate software, hardware, and cloud infrastructure.
