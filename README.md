@@ -16,6 +16,13 @@ Developer of <b>Siggme.com</b>
 Interactive installations, real-time systems, and social platforms used in corporate environments and live experiences.
 </p>
 
+<p align="center">
+  <a href="#featured-systems"><b>Featured Systems</b></a> •
+  <a href="#technologies"><b>Technologies</b></a> •
+  <a href="#interactive-technology"><b>Interactive Technology</b></a> •
+  <a href="#current-focus"><b>Current Focus</b></a>
+</p>
+
 <br>
 
 Siggme is a platform designed to help people organize real-world gatherings through **clear social signals** — allowing hosts to gather interest before committing to dates or logistics.
