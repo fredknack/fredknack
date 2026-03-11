@@ -12,12 +12,12 @@ Experienced in designing and deploying interactive systems for corporate install
 
 - Interactive installations and physical computing
 - Real-time 3D (Unity/C#)
-- Projection mapping and live visual performance systems
 - Multi-display synchronized systems
 - Web-based dashboards and cloud-connected applications
 - Hardware/software integration
 - Touchscreen and sensor-driven interfaces
 - Experiential marketing and public installations
+- Projection mapping and live visual performance systems
 - AI-assisted software development workflows
 
 ---
