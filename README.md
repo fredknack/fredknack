@@ -4,16 +4,6 @@
 
 <h1 align="center">Fred Knack</h1>
 
-Sensors / Buttons / Kiosks
-        ↓
-Arduino • ESP8266 • Raspberry Pi
-        ↓
-Unity Real-Time Engine
-        ↓
-Firebase / Supabase Cloud
-        ↓
-Next.js Dashboards
-
 <p align="center">
 Creative Technologist • Interactive Systems Architect • Real-Time Installations
 </p>
