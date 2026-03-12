@@ -1,22 +1,22 @@
 # Fred Knack
 
-Interactive Systems Architect | Real-Time Installations | Physical-Digital Systems
+Creative Technologist | Interactive Systems Architect | Experiential Technology
 
-Creative Technologist and Interactive Systems Developer designing and deploying real-time installations and immersive environments that integrate cloud infrastructure, hardware interfaces, and visual media.
+Creative Technologist and Interactive Systems Architect designing and deploying real-time installations and immersive environments that integrate cloud infrastructure, hardware interfaces, and visual media.
 
-Experienced in designing and deploying interactive systems for corporate installations, trade shows, public art environments, and training platforms. Development workflows incorporate modern AI-assisted engineering tools to accelerate system design, prototyping, and implementation.
+Projects include corporate headquarters installations, global trade show systems, immersive public environments, and interactive training platforms. Development workflows incorporate modern AI-assisted engineering tools to accelerate system design, prototyping, and deployment.
 
 ---
 
 ## Core Expertise
 
 - Interactive installations and physical computing
-- Real-time 3D (Unity/C#)
+- Real-time 3D systems (Unity / C#)
 - Multi-display synchronized systems
 - Web-based dashboards and cloud-connected applications
 - Hardware/software integration
 - Touchscreen and sensor-driven interfaces
-- Experiential marketing and public installations
+- Experiential technology and public installations
 - Projection mapping and live visual performance systems
 - AI-assisted software development workflows
 
@@ -30,9 +30,32 @@ Experienced in designing and deploying interactive systems for corporate install
 - Public installations generating **250,000+ recorded user interactions**
 - Real-time cloud synchronization using **Firebase and event-driven hardware triggers**
 - Interactive trade show installations integrating **touchscreens, LED walls, vending hardware, and sensors**
-- Experiential technology systems and immersive installations**
+- Experiential technology environments combining displays, sensors, and real-time media**
 - Cloud dashboards and analytics systems tracking **user behavior and installation activity**
 - Live visual systems and projection-mapped environments used in DJ and performance settings
+
+---
+
+## Signature Systems
+
+Selected large-scale interactive systems and deployments:
+
+- **Google Corporate Headquarters** — 16-touchscreen synchronized timeline installation running across 8 Unity-powered compute nodes
+- **Meta Trade Shows** — WhatsApp interactive demonstration platform integrating Twilio messaging, Firebase analytics, and Unity display systems
+- **Fathom Immersive Art Installation** — physical control console with 24 hardware inputs driving synchronized video and lighting systems with 250,000+ recorded interactions
+- **Liberty Mutual Training Systems** — AR and VR simulation platforms for insurance damage assessment training
+
+---
+
+## Deployment Environments
+
+Interactive systems and installations developed for organizations including:
+
+- Corporate headquarters installations
+- Global trade show exhibition systems
+- Public immersive art environments
+- Interactive training and simulation platforms
+- Live performance and projection-mapped media environments
 
 ---
 
@@ -206,7 +229,7 @@ Development of interactive promotional installations combining Unity application
 - Physical interaction design
 - Custom electronics prototyping
 - Event and trade show technology development
-- AI-assisted development and rapid prototyping
+- AI-assisted engineering workflows and rapid prototyping
 - Web application development for dashboards and operational tools
 - Cloud-connected installations and analytics
 
