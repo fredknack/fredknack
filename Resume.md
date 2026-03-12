@@ -30,6 +30,7 @@ Experienced in designing and deploying interactive systems for corporate install
 - Public installations generating **250,000+ recorded user interactions**
 - Real-time cloud synchronization using **Firebase and event-driven hardware triggers**
 - Interactive trade show installations integrating **touchscreens, LED walls, vending hardware, and sensors**
+- Experiential technology systems and immersive installations**
 - Cloud dashboards and analytics systems tracking **user behavior and installation activity**
 - Live visual systems and projection-mapped environments used in DJ and performance settings
 
