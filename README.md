@@ -63,17 +63,13 @@ Examples of deployment scale across installations and interactive systems.
 
 ## Typical System Stack
 
-| Layer | Stack |
-|------|------|
-| Physical Interfaces | Button consoles • sensors • kiosks |
-| ↓ | |
-| Microcontrollers | Arduino • ESP8266 • Raspberry Pi |
-| ↓ | |
-| Real-Time Engine | Unity • C# |
-| ↓ | |
-| Cloud Infrastructure | Firebase • Supabase |
-| ↓ | |
-| Web Dashboards | Next.js • Node.js |
+| Layer | Role | Technology |
+|------|------|------------|
+| Physical Interfaces | Human interaction layer | Buttons, sensors, kiosks |
+| Embedded Control | Hardware IO and device control | Arduino, ESP8266, Raspberry Pi |
+| Real-Time Engine | Graphics, interaction logic | Unity (C#) |
+| Cloud Infrastructure | Data sync, messaging, persistence | Firebase, Supabase |
+| Web Dashboards | Monitoring and management tools | Next.js, Node.js |
 
 <br>
 
