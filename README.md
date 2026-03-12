@@ -5,7 +5,11 @@
 <h1 align="center">Fred Knack</h1>
 
 <p align="center">
-Creative technologist building interactive systems with <b>Unity, web platforms, and embedded hardware</b>.
+Creative Technologist • Interactive Systems Architect • Real-Time Installations
+</p>
+
+<p align="center">
+Building interactive systems that combine real-time graphics, hardware interfaces, and cloud infrastructure.
 </p>
 
 <p align="center">
