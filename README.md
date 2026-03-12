@@ -9,11 +9,7 @@ Creative Technologist • Interactive Systems Architect • Real-Time Installati
 </p>
 
 <p align="center">
-Building interactive systems that combine real-time graphics, hardware interfaces, and cloud infrastructure.
-</p>
-
-<p align="center">
-Interactive installations, real-time systems, and social platforms used in corporate environments and live experiences.
+Building interactive systems that combine real-time graphics, hardware interfaces, and cloud infrastructure — deployed in corporate headquarters, trade shows, and public installations.
 </p>
 
 <br>
@@ -22,7 +18,6 @@ Interactive installations, real-time systems, and social platforms used in corpo
   <a href="#featured-systems"><b>Featured Systems</b></a> •
   <a href="#technologies"><b>Technologies</b></a> •
   <a href="#interactive-technology"><b>Interactive Technology</b></a> •
-  <a href="#current-focus"><b>Current Focus</b></a> •
   <a href="ProjectArchive.md"><b>Project Archive</b></a> •
   <a href="Resume.md"><b>Resume</b></a>
 </p>
@@ -30,22 +25,6 @@ Interactive installations, real-time systems, and social platforms used in corpo
 <br>
 
 ---
-
-## Systems Architecture Pattern
-
-Interactive systems typically follow a layered architecture combining physical interfaces, real-time applications, and cloud infrastructure.
-
-| Layer | Technologies |
-|------|-------------|
-| Physical Interfaces | Sensors, button consoles, kiosks, vending hardware |
-| Embedded Control | Arduino, ESP8266, Raspberry Pi |
-| Real-Time Applications | Unity (C#) |
-| Cloud Infrastructure | Firebase / Supabase |
-| Monitoring & Dashboards | Next.js / Node.js |
-
-This architecture supports **multi-display installations, sensor-driven experiences, and real-time cloud-connected environments** used in corporate installations, trade shows, public exhibits, and training systems.
-
-<br>
 
 ## System Footprint
 
@@ -91,21 +70,17 @@ The system runs across **16 synchronized touchscreen displays powered by 8 PCs**
 
 <br>
 
-<table>
-<tr>
-<td valign="top" width="50%">
-
 ### Meta Trade Show WhatsApp Demonstration
+
+<p align="center">
+  <img src="images/whatsappdemo.jpg" width="750">
+</p>
 
 Interactive trade show experience used by **Meta** to demonstrate WhatsApp integrations.
 
 The system uses **Node.js services connected to Firebase**, combined with **Unity visualization displays** that show live WhatsApp usage activity during demonstrations.
 
 **Tech:** WhatsApp • Node.js • Firebase • Unity • Real-time messaging systems
-
-</td>
-</tr>
-</table>
 
 <br>
 
@@ -151,11 +126,11 @@ Many of my projects combine software and hardware to create **interactive enviro
 
 Typical components include:
 
-- Unity-driven applications  
-- sensors and microcontrollers  
-- LED systems and physical interfaces  
-- Raspberry Pi and embedded devices  
-- real-time cloud services  
+- Unity-driven applications
+- Sensors and microcontrollers
+- LED systems and physical interfaces
+- Raspberry Pi and embedded devices
+- Real-time cloud services
 
 <br>
 

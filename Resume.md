@@ -30,7 +30,7 @@ Projects include corporate headquarters installations, global trade show systems
 - Public installations generating **250,000+ recorded user interactions**
 - Real-time cloud synchronization using **Firebase and event-driven hardware triggers**
 - Interactive trade show installations integrating **touchscreens, LED walls, vending hardware, and sensors**
-- Experiential technology environments combining displays, sensors, and real-time media**
+- Experiential technology environments combining **displays, sensors, and real-time media**
 - Cloud dashboards and analytics systems tracking **user behavior and installation activity**
 - Live visual systems and projection-mapped environments used in DJ and performance settings
 
