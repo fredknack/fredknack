@@ -18,6 +18,17 @@ Interactive installations, real-time systems, and social platforms used in corpo
 
 <br>
 
+<p align="center">
+  <a href="#featured-systems"><b>Featured Systems</b></a> •
+  <a href="#technologies"><b>Technologies</b></a> •
+  <a href="#interactive-technology"><b>Interactive Technology</b></a> •
+  <a href="#current-focus"><b>Current Focus</b></a> •
+  <a href="ProjectArchive.md"><b>Project Archive</b></a> •
+  <a href="Resume.md"><b>Resume</b></a>
+</p>
+
+<br>
+
 ---
 
 ## Systems Architecture Pattern
@@ -36,16 +47,21 @@ This architecture supports **multi-display installations, sensor-driven experien
 
 <br>
 
-<p align="center">
-  <a href="#featured-systems"><b>Featured Systems</b></a> •
-  <a href="#technologies"><b>Technologies</b></a> •
-  <a href="#interactive-technology"><b>Interactive Technology</b></a> •
-  <a href="#current-focus"><b>Current Focus</b></a> •
-  <a href="ProjectArchive.md"><b>Project Archive</b></a> •
-  <a href="Resume.md"><b>Resume</b></a>
-</p>
+## System Footprint
+
+Examples of deployment scale across installations and interactive systems.
+
+| Metric | Example Deployments |
+|------|--------------------|
+| Displays | Up to **16 synchronized touchscreens** |
+| Compute Nodes | **8 Unity systems running in coordinated environments** |
+| Physical Inputs | **24+ hardware buttons and sensor interfaces** |
+| Public Interactions | **250,000+ recorded interactions in live installations** |
+| Environments | Corporate HQ • Trade Shows • Public Art Installations |
 
 <br>
+
+
 
 ---
 
