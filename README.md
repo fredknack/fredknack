@@ -16,6 +16,26 @@ Building interactive systems that combine real-time graphics, hardware interface
 Interactive installations, real-time systems, and social platforms used in corporate environments and live experiences.
 </p>
 
+<br>
+
+---
+
+## Systems Architecture Pattern
+
+Interactive systems typically follow a layered architecture combining physical interfaces, real-time applications, and cloud infrastructure.
+
+| Layer | Technologies |
+|------|-------------|
+| Physical Interfaces | Sensors, button consoles, kiosks, vending hardware |
+| Embedded Control | Arduino, ESP8266, Raspberry Pi |
+| Real-Time Applications | Unity (C#) |
+| Cloud Infrastructure | Firebase / Supabase |
+| Monitoring & Dashboards | Next.js / Node.js |
+
+This architecture supports **multi-display installations, sensor-driven experiences, and real-time cloud-connected environments** used in corporate installations, trade shows, public exhibits, and training systems.
+
+<br>
+
 <p align="center">
   <a href="#featured-systems"><b>Featured Systems</b></a> •
   <a href="#technologies"><b>Technologies</b></a> •
@@ -26,8 +46,6 @@ Interactive installations, real-time systems, and social platforms used in corpo
 </p>
 
 <br>
-
-
 
 ---
 
