@@ -59,7 +59,15 @@ Examples of deployment scale across installations and interactive systems.
 ### ⭐ Google Corporate Timeline Installation
 
 <p align="center">
-  <img src="images/Inflectionwall.jpg" width="750">
+  <a href="https://video.fredknack.com/Google-HQ-Installation">
+    <img src="images/Inflectionwall.jpg" width="750" alt="Google HQ Installation Video Thumbnail">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://video.fredknack.com/Google-HQ-Installation">
+    <img src="https://img.shields.io/badge/▶️_Watch_Video_Demonstration-000000?style=for-the-badge" alt="Watch Video Demonstration">
+  </a>
 </p>
 
 Interactive timeline installation located in **Google headquarters**.

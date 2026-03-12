@@ -6,8 +6,8 @@ Projects emphasize the integration of software, hardware, and cloud infrastructu
 
 ## Systems Included
 
-- Liberty Mutual AR Training
-- Liberty Mutual VR Training
+- AR Training
+- VR Training
 - Meta Trade Show WhatsApp Demo
 - Allura AR Paint Visualization
 - Fathom Immersive Installation
@@ -19,7 +19,7 @@ Projects emphasize the integration of software, hardware, and cloud infrastructu
 ---
 
 <details>
-<summary><strong>Liberty Mutual AR Training System</strong></summary>
+<summary><strong>AR Training System</strong></summary>
 
 <br>
 
@@ -45,7 +45,7 @@ Development of an augmented reality training application for insurance adjusters
 ---
 
 <details>
-<summary><strong>Liberty Mutual VR Training</strong></summary>
+<summary><strong>VR Training</strong></summary>
 
 <br>
 
@@ -203,7 +203,15 @@ Users posted a specific hashtag to receive a code which was entered into a Unity
 <br>
 
 <p align="center">
-<img src="images/Inflectionwall.jpg" width="700">
+  <a href="https://video.fredknack.com/Google-HQ-Installation">
+    <img src="images/Inflectionwall.jpg" width="700" alt="Google HQ Installation Video Thumbnail">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://video.fredknack.com/Google-HQ-Installation">
+    <img src="https://img.shields.io/badge/▶️_Watch_Video_Demonstration-000000?style=for-the-badge" alt="Watch Video Demonstration">
+  </a>
 </p>
 
 **System Snapshot**
