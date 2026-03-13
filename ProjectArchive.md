@@ -24,7 +24,15 @@ Projects emphasize the integration of software, hardware, and cloud infrastructu
 <br>
 
 <p align="center">
-<img src="images/lvkitchen.jpg" width="700">
+  <a href="https://video.fredknack.com/VR-Kitchen">
+    <img src="thumbnails/lewisville-ar-kitchen.jpg" width="700" alt="AR Training System Video Thumbnail">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://video.fredknack.com/VR-Kitchen">
+    <img src="https://img.shields.io/badge/▶️_Watch_Video_Demonstration-000000?style=for-the-badge" alt="Watch Video Demonstration">
+  </a>
 </p>
 
 **System Snapshot**
@@ -50,7 +58,15 @@ Development of an augmented reality training application for insurance adjusters
 <br>
 
 <p align="center">
-<img src="images/libertyvr.jpg" width="700">
+  <a href="https://video.fredknack.com/VR-Interaction-Unity-Tool">
+    <img src="images/libertyvr.jpg" width="700" alt="VR Training Video Thumbnail">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://video.fredknack.com/VR-Interaction-Unity-Tool">
+    <img src="https://img.shields.io/badge/▶️_Watch_Video_Demonstration-000000?style=for-the-badge" alt="Watch Video Demonstration">
+  </a>
 </p>
 
 **System Snapshot**
@@ -75,7 +91,15 @@ Users explored virtual properties to identify structural and environmental damag
 <br>
 
 <p align="center">
-<img src="images/whatsappdemo.jpg" width="700">
+  <a href="https://video.fredknack.com/Meta-Whatsapp-Chatbot">
+    <img src="thumbnails/meta-whatsapp-chatbot.jpg" width="700" alt="Meta WhatsApp Demonstration Video Thumbnail">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://video.fredknack.com/Meta-Whatsapp-Chatbot">
+    <img src="https://img.shields.io/badge/▶️_Watch_Video_Demonstration-000000?style=for-the-badge" alt="Watch Video Demonstration">
+  </a>
 </p>
 
 **System Snapshot**
@@ -100,7 +124,15 @@ Visitors launched the experience by scanning a QR code that initiated a WhatsApp
 <br>
 
 <p align="center">
-<img src="images/allura.jpg" width="700">
+  <a href="https://video.fredknack.com/Allura-Augmented-Reality">
+    <img src="thumbnails/allura-ar.jpg" width="700" alt="Allura Augmented Reality Video Thumbnail">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://video.fredknack.com/Allura-Augmented-Reality">
+    <img src="https://img.shields.io/badge/▶️_Watch_Video_Demonstration-000000?style=for-the-badge" alt="Watch Video Demonstration">
+  </a>
 </p>
 
 **System Snapshot**
@@ -126,7 +158,15 @@ Users placed printed building cards beneath a mobile device running a Unity AR a
 <br>
 
 <p align="center">
-<img src="images/fathom.jpg" width="700">
+  <a href="https://video.fredknack.com/Fathom-Sub_Installation">
+    <img src="thumbnails/fathom-sub-immersive-installation.jpg" width="700" alt="Fathom Submarine Bridge Installation Video Thumbnail">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://video.fredknack.com/Fathom-Sub_Installation">
+    <img src="https://img.shields.io/badge/▶️_Watch_Video_Demonstration-000000?style=for-the-badge" alt="Watch Video Demonstration">
+  </a>
 </p>
 
 **System Snapshot**
@@ -152,7 +192,15 @@ A console of 24 physical buttons controlled synchronized video across six displa
 <br>
 
 <p align="center">
-<img src="images/cowboybebop.jpg" width="700">
+  <a href="https://video.fredknack.com/CowBoy-Bebop-Vending-Machine">
+    <img src="thumbnails/netflix-cowboy-bebop-installation.jpg" width="700" alt="Netflix Cowboy Bebop Trade Show Installation Video Thumbnail">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://video.fredknack.com/CowBoy-Bebop-Vending-Machine">
+    <img src="https://img.shields.io/badge/▶️_Watch_Video_Demonstration-000000?style=for-the-badge" alt="Watch Video Demonstration">
+  </a>
 </p>
 
 **System Snapshot**
@@ -178,7 +226,15 @@ Visitors inserted a coin into a custom vending machine that triggered synchroniz
 <br>
 
 <p align="center">
-<img src="images/wendysvending.jpg" width="700">
+  <a href="https://video.fredknack.com/Twitter-Controlled-Vending-Machine">
+    <img src="images/wendysvending.jpg" width="700" alt="Wendy's Social Vending Installation Video Thumbnail">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://video.fredknack.com/Twitter-Controlled-Vending-Machine">
+    <img src="https://img.shields.io/badge/▶️_Watch_Video_Demonstration-000000?style=for-the-badge" alt="Watch Video Demonstration">
+  </a>
 </p>
 
 **System Snapshot**
@@ -239,7 +295,15 @@ Sixteen touchscreen displays present historical milestones and media across sync
 <br>
 
 <p align="center">
-<img src="images/kaiser.jpg" width="700">
+  <a href="https://video.fredknack.com/Kaiser-Kiosk-Interactive-Installation">
+    <img src="thumbnails/kaiser-interactive-kiosk-installation.jpg" width="700" alt="Kaiser Permanente Health Quiz Kiosk Video Thumbnail">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://video.fredknack.com/Kaiser-Kiosk-Interactive-Installation">
+    <img src="https://img.shields.io/badge/▶️_Watch_Video_Demonstration-000000?style=for-the-badge" alt="Watch Video Demonstration">
+  </a>
 </p>
 
 **System Snapshot**

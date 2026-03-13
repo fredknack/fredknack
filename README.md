@@ -81,7 +81,15 @@ The system runs across **16 synchronized touchscreen displays powered by 8 PCs**
 ### Meta Trade Show WhatsApp Demonstration
 
 <p align="center">
-  <img src="images/whatsappdemo.jpg" width="750">
+  <a href="https://video.fredknack.com/Meta-Whatsapp-Chatbot">
+    <img src="thumbnails/meta-whatsapp-chatbot.jpg" width="750" alt="Meta WhatsApp Demonstration Video Thumbnail">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://video.fredknack.com/Meta-Whatsapp-Chatbot">
+    <img src="https://img.shields.io/badge/▶️_Watch_Video_Demonstration-000000?style=for-the-badge" alt="Watch Video Demonstration">
+  </a>
 </p>
 
 Interactive trade show experience used by **Meta** to demonstrate WhatsApp integrations.
