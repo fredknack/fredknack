@@ -20,13 +20,13 @@ Many of these experiments later evolve into larger installations.
 <br>
 
 <p align="center">
-  <a href="https://video.fredknack.com/Unity-FPS-Game">
+  <a href="https://customer-e9d02k2c39c6uy7q.cloudflarestream.com/3f0f66362026eaae935723d65e2b7f16/manifest/video.m3u8">
     <img src="thumbnails/TazmoTheCommander.jpg" width="700" alt="Unity based First Person Shooter">
   </a>
 </p>
 
 <p align="center">
-  <a href="https://video.fredknack.com/Unity-FPS-Game">
+  <a href="https://customer-e9d02k2c39c6uy7q.cloudflarestream.com/3f0f66362026eaae935723d65e2b7f16/manifest/video.m3u8">
     <img src="https://img.shields.io/badge/▶️_Watch_Video_Demonstration-000000?style=for-the-badge" alt="Watch Video Demonstration">
   </a>
 </p>

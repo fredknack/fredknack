@@ -58,13 +58,13 @@ Development of an augmented reality training application for insurance adjusters
 <br>
 
 <p align="center">
-  <a href="https://video.fredknack.com/VR-Interaction-Unity-Tool">
+  <a href="https://customer-e9d02k2c39c6uy7q.cloudflarestream.com/4fb26b66ebbe59c5fb8480b90c353240/manifest/video.m3u8">
     <img src="images/libertyvr.jpg" width="700" alt="VR Training Video Thumbnail">
   </a>
 </p>
 
 <p align="center">
-  <a href="https://video.fredknack.com/VR-Interaction-Unity-Tool">
+  <a href="https://customer-e9d02k2c39c6uy7q.cloudflarestream.com/4fb26b66ebbe59c5fb8480b90c353240/manifest/video.m3u8">
     <img src="https://img.shields.io/badge/▶️_Watch_Video_Demonstration-000000?style=for-the-badge" alt="Watch Video Demonstration">
   </a>
 </p>
@@ -91,13 +91,13 @@ Users explored virtual properties to identify structural and environmental damag
 <br>
 
 <p align="center">
-  <a href="https://video.fredknack.com/Meta-Whatsapp-Chatbot">
+  <a href="https://customer-e9d02k2c39c6uy7q.cloudflarestream.com/610cebad42990f2c66a9a497ec5889fd/manifest/video.m3u8">
     <img src="thumbnails/meta-whatsapp-chatbot.jpg" width="700" alt="Meta WhatsApp Demonstration Video Thumbnail">
   </a>
 </p>
 
 <p align="center">
-  <a href="https://video.fredknack.com/Meta-Whatsapp-Chatbot">
+  <a href="https://customer-e9d02k2c39c6uy7q.cloudflarestream.com/610cebad42990f2c66a9a497ec5889fd/manifest/video.m3u8">
     <img src="https://img.shields.io/badge/▶️_Watch_Video_Demonstration-000000?style=for-the-badge" alt="Watch Video Demonstration">
   </a>
 </p>
@@ -124,13 +124,13 @@ Visitors launched the experience by scanning a QR code that initiated a WhatsApp
 <br>
 
 <p align="center">
-  <a href="https://video.fredknack.com/Allura-Augmented-Reality">
+  <a href="https://customer-e9d02k2c39c6uy7q.cloudflarestream.com/94ac44a91781cf14d9f02cccf72347f7/manifest/video.m3u8">
     <img src="thumbnails/allura-ar.jpg" width="700" alt="Allura Augmented Reality Video Thumbnail">
   </a>
 </p>
 
 <p align="center">
-  <a href="https://video.fredknack.com/Allura-Augmented-Reality">
+  <a href="https://customer-e9d02k2c39c6uy7q.cloudflarestream.com/94ac44a91781cf14d9f02cccf72347f7/manifest/video.m3u8">
     <img src="https://img.shields.io/badge/▶️_Watch_Video_Demonstration-000000?style=for-the-badge" alt="Watch Video Demonstration">
   </a>
 </p>
@@ -158,13 +158,13 @@ Users placed printed building cards beneath a mobile device running a Unity AR a
 <br>
 
 <p align="center">
-  <a href="https://video.fredknack.com/Fathom-Sub_Installation">
+  <a href="https://customer-e9d02k2c39c6uy7q.cloudflarestream.com/610cebad42990f2c66a9a497ec5889fd/manifest/video.m3u8">
     <img src="thumbnails/fathom-sub-immersive-installation.jpg" width="700" alt="Fathom Submarine Bridge Installation Video Thumbnail">
   </a>
 </p>
 
 <p align="center">
-  <a href="https://video.fredknack.com/Fathom-Sub_Installation">
+  <a href="https://customer-e9d02k2c39c6uy7q.cloudflarestream.com/610cebad42990f2c66a9a497ec5889fd/manifest/video.m3u8">
     <img src="https://img.shields.io/badge/▶️_Watch_Video_Demonstration-000000?style=for-the-badge" alt="Watch Video Demonstration">
   </a>
 </p>
@@ -192,13 +192,13 @@ A console of 24 physical buttons controlled synchronized video across six displa
 <br>
 
 <p align="center">
-  <a href="https://video.fredknack.com/CowBoy-Bebop-Vending-Machine">
+  <a href="https://customer-e9d02k2c39c6uy7q.cloudflarestream.com/823f999ad633a95f40b4283913234f77/manifest/video.m3u8">
     <img src="thumbnails/netflix-cowboy-bebop-installation.jpg" width="700" alt="Netflix Cowboy Bebop Trade Show Installation Video Thumbnail">
   </a>
 </p>
 
 <p align="center">
-  <a href="https://video.fredknack.com/CowBoy-Bebop-Vending-Machine">
+  <a href="https://customer-e9d02k2c39c6uy7q.cloudflarestream.com/823f999ad633a95f40b4283913234f77/manifest/video.m3u8">
     <img src="https://img.shields.io/badge/▶️_Watch_Video_Demonstration-000000?style=for-the-badge" alt="Watch Video Demonstration">
   </a>
 </p>
@@ -226,13 +226,13 @@ Visitors inserted a coin into a custom vending machine that triggered synchroniz
 <br>
 
 <p align="center">
-  <a href="https://video.fredknack.com/Twitter-Controlled-Vending-Machine">
+  <a href="https://customer-e9d02k2c39c6uy7q.cloudflarestream.com/6b8f58d6182a5d1bbc5eeca877165243/manifest/video.m3u8">
     <img src="images/wendysvending.jpg" width="700" alt="Wendy's Social Vending Installation Video Thumbnail">
   </a>
 </p>
 
 <p align="center">
-  <a href="https://video.fredknack.com/Twitter-Controlled-Vending-Machine">
+  <a href="https://customer-e9d02k2c39c6uy7q.cloudflarestream.com/6b8f58d6182a5d1bbc5eeca877165243/manifest/video.m3u8">
     <img src="https://img.shields.io/badge/▶️_Watch_Video_Demonstration-000000?style=for-the-badge" alt="Watch Video Demonstration">
   </a>
 </p>
@@ -259,13 +259,13 @@ Users posted a specific hashtag to receive a code which was entered into a Unity
 <br>
 
 <p align="center">
-  <a href="https://video.fredknack.com/Google-HQ-Installation">
+  <a href="https://customer-e9d02k2c39c6uy7q.cloudflarestream.com/c28156609fd0302709039dbb21c01cf5/manifest/video.m3u8">
     <img src="images/Inflectionwall.jpg" width="700" alt="Google HQ Installation Video Thumbnail">
   </a>
 </p>
 
 <p align="center">
-  <a href="https://video.fredknack.com/Google-HQ-Installation">
+  <a href="https://customer-e9d02k2c39c6uy7q.cloudflarestream.com/c28156609fd0302709039dbb21c01cf5/manifest/video.m3u8">
     <img src="https://img.shields.io/badge/▶️_Watch_Video_Demonstration-000000?style=for-the-badge" alt="Watch Video Demonstration">
   </a>
 </p>
@@ -295,13 +295,13 @@ Sixteen touchscreen displays present historical milestones and media across sync
 <br>
 
 <p align="center">
-  <a href="https://video.fredknack.com/Kaiser-Kiosk-Interactive-Installation">
+  <a href="https://customer-e9d02k2c39c6uy7q.cloudflarestream.com/035c91da5976b3c70f16644e4041b32d/manifest/video.m3u8">
     <img src="thumbnails/kaiser-interactive-kiosk-installation.jpg" width="700" alt="Kaiser Permanente Health Quiz Kiosk Video Thumbnail">
   </a>
 </p>
 
 <p align="center">
-  <a href="https://video.fredknack.com/Kaiser-Kiosk-Interactive-Installation">
+  <a href="https://customer-e9d02k2c39c6uy7q.cloudflarestream.com/035c91da5976b3c70f16644e4041b32d/manifest/video.m3u8">
     <img src="https://img.shields.io/badge/▶️_Watch_Video_Demonstration-000000?style=for-the-badge" alt="Watch Video Demonstration">
   </a>
 </p>
