@@ -4,6 +4,9 @@ This archive documents selected interactive systems, installations, and platform
 
 Projects emphasize the integration of software, hardware, and cloud infrastructure across environments such as corporate headquarters, trade shows, public installations, and training platforms.
 
+**Related Archive**  
+[View Research & Experiments →](ResearchArchive.md)
+
 ## Systems Included
 
 - AR Training

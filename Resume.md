@@ -242,5 +242,8 @@ Full project documentation and system archive:
 **Project Archive**  
 [View Project Archive →](ProjectArchive.md)
 
+**Research Archive**  
+[View Research & Experiments →](ResearchArchive.md)
+
 GitHub Profile  
 https://github.com/fredknack

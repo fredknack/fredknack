@@ -19,6 +19,7 @@ Building interactive systems that combine real-time graphics, hardware interface
   <a href="#technologies"><b>Technologies</b></a> •
   <a href="#interactive-technology"><b>Interactive Technology</b></a> •
   <a href="ProjectArchive.md"><b>Project Archive</b></a> •
+  <a href="ResearchArchive.md"><b>Research Archive</b></a> •
   <a href="Resume.md"><b>Resume</b></a>
 </p>
 
@@ -104,7 +105,8 @@ The system uses **Node.js services connected to Firebase**, combined with **Unit
 
 <p align="center">
 
-**[View Full Project Archive →](ProjectArchive.md)**
+**[View Full Project Archive →](ProjectArchive.md)**  
+**[View Research & Experiments →](ResearchArchive.md)**
 
 </p>
 
