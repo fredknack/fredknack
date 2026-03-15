@@ -81,7 +81,7 @@ The duck drive was engaged more than 35,000 times during the year and a half tha
 
 <p align="center">
   <a href="https://customer-e9d02k2c39c6uy7q.cloudflarestream.com/1b2f8665aaafcfd5558b57fc9241469b/manifest/video.m3u8">
-    <img src="thumbnails/ipad-portfolio.jpg" width="700" alt="Unity based art tool">
+    <img src="thumbnails/shape-explorer.jpg" width="700" alt="Unity based art tool">
   </a>
 </p>
 
