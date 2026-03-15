@@ -27,7 +27,7 @@ Many techniques used in production installations originate from experiments in t
     <img src="thumbnails/sub-duck-drive.jpg" width="300" alt="Duck Warp Drive">
   </a>
   <a href="#unity-touchscreen-art-tool">
-    <img src="thumbnails/ipad-portfolio.jpg" width="300" alt="Unity Touchscreen Art Tool">
+    <img src="thumbnails/shape-explorer.jpg" width="300" alt="Unity Touchscreen Art Tool">
   </a>
 </p>
 
